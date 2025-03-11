@@ -15,7 +15,7 @@ Clone o repositório e instale as dependências:
 
 ```sh
 # Clone o repositório
-git clone https://github.com/seu-usuario/saucedemo-cypress-tests.git
+git clone https://github.com/gabrielsilva9810/saucedemo-cypress-tests.git
 
 # Acesse o diretório do projeto
 cd saucedemo-cypress-tests
