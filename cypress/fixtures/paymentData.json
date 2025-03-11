@@ -1,0 +1,22 @@
+{
+    "valid": {
+        "firstName": "João",
+        "lastName": "Silva",
+        "postalCode": "12345-678"
+    },
+    "invalidNotFirstName": {
+        "firstName": null,
+        "lastName": "Silva",
+        "postalCode": "12345-678"
+    },
+    "invalidNotLastName": {
+        "firstName": "João",
+        "lastName": null,
+        "postalCode": "12345-678"
+    },
+    "invalidNotPostalCode": {
+        "firstName": "João",
+        "lastName": "Silva",
+        "postalCode": null
+    }
+}
